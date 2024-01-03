@@ -163,7 +163,7 @@ Hardware Simulator 2.5 script test to check complience with truth table for OR16
 
 ## Mux16 gate
 
-![](slides/MUX16.svg)
+![](slides/Mux16.svg)
 
 API description:
 
@@ -184,7 +184,7 @@ API description:
 
 Construction as simple as building of 16 Mux gates and connect each to the corresponding input of buses a, b and out, while sel input is a common one for all 16 Mux gates:
 
-![](slides/MUX16(NAND).svg)
+![](slides/Mux16(NAND).svg)
 
 Writing description in HDL code (Mux16.hdl):
 
@@ -215,4 +215,4 @@ Hardware Simulator 2.5 script test to check complience with truth table for MUX1
 
 ## New MUX16 gate
 
-![](slides/MUX16+.svg)
+![](slides/Mux16+.svg)
